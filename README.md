@@ -1,2 +1,5 @@
 # hello-world
-This is me, learning to create a new repository...
+
+Greetings!
+
+My name is Alison and I am a Computer Science student.
